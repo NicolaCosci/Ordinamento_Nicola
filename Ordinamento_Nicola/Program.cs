@@ -11,7 +11,7 @@ namespace Ordinamento_Nicola
     {
         static void Main(string[] args)  
         {
-            int risuno = 0, riscinque = 0, risdue = 0, ristre = 0, risquattro = 0; 
+            int risuno = 0, riscinque = 0, risdue = 0, ristre = 0, risquattro = 0;  
              
             var PrimaOperazione = Task.Factory.StartNew(() =>
             {
